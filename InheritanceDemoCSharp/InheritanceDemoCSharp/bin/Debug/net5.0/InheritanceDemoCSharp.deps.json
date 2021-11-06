@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InheritanceDemoCSharp/1.0.0": {
+        "runtime": {
+          "InheritanceDemoCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InheritanceDemoCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

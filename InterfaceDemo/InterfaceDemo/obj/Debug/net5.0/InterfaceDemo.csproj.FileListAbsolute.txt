@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.AssemblyInfo.cs
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.exe
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.deps.json
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.runtimeconfig.json
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.runtimeconfig.dev.json
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.dll
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\ref\InterfaceDemo.dll
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.pdb
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.dll
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\ref\InterfaceDemo.dll
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.pdb
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.genruntimeconfig.cache

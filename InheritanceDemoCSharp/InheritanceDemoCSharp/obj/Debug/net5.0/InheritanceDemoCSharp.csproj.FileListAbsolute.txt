@@ -1,0 +1,16 @@
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\bin\Debug\net5.0\InheritanceDemoCSharp.exe
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\bin\Debug\net5.0\InheritanceDemoCSharp.deps.json
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\bin\Debug\net5.0\InheritanceDemoCSharp.runtimeconfig.json
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\bin\Debug\net5.0\InheritanceDemoCSharp.runtimeconfig.dev.json
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\bin\Debug\net5.0\InheritanceDemoCSharp.dll
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\bin\Debug\net5.0\ref\InheritanceDemoCSharp.dll
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\bin\Debug\net5.0\InheritanceDemoCSharp.pdb
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\obj\Debug\net5.0\InheritanceDemoCSharp.csproj.AssemblyReference.cache
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\obj\Debug\net5.0\InheritanceDemoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\obj\Debug\net5.0\InheritanceDemoCSharp.AssemblyInfoInputs.cache
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\obj\Debug\net5.0\InheritanceDemoCSharp.AssemblyInfo.cs
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\obj\Debug\net5.0\InheritanceDemoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\obj\Debug\net5.0\InheritanceDemoCSharp.dll
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\obj\Debug\net5.0\ref\InheritanceDemoCSharp.dll
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\obj\Debug\net5.0\InheritanceDemoCSharp.pdb
+C:\Users\zdowd\source\repos\InheritanceDemoCSharp\InheritanceDemoCSharp\obj\Debug\net5.0\InheritanceDemoCSharp.genruntimeconfig.cache

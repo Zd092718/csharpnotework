@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\bin\Debug\net5.0\InheritanceC.exe
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\bin\Debug\net5.0\InheritanceC.deps.json
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\bin\Debug\net5.0\InheritanceC.runtimeconfig.json
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\bin\Debug\net5.0\InheritanceC.runtimeconfig.dev.json
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\bin\Debug\net5.0\InheritanceC.dll
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\bin\Debug\net5.0\ref\InheritanceC.dll
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\bin\Debug\net5.0\InheritanceC.pdb
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\obj\Debug\net5.0\InheritanceC.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\obj\Debug\net5.0\InheritanceC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\obj\Debug\net5.0\InheritanceC.AssemblyInfoInputs.cache
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\obj\Debug\net5.0\InheritanceC.AssemblyInfo.cs
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\obj\Debug\net5.0\InheritanceC.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\obj\Debug\net5.0\InheritanceC.dll
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\obj\Debug\net5.0\ref\InheritanceC.dll
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\obj\Debug\net5.0\InheritanceC.pdb
+C:\Users\zdowd\repos\csharplessons\InheritanceC\InheritanceC\obj\Debug\net5.0\InheritanceC.genruntimeconfig.cache
