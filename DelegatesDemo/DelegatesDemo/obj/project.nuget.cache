@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VjHW3a4D/1q6cGIR+iI+ZnC9ic60lnO2khuSyo4J0g1p8KcQ7LbBFU1yjR27yRGpKEcU1c/jgEgfqbO99OPxIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\DelegatesDemo\\DelegatesDemo\\DelegatesDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

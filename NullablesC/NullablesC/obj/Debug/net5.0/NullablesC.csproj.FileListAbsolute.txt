@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\bin\Debug\net5.0\NullablesC.exe
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\bin\Debug\net5.0\NullablesC.deps.json
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\bin\Debug\net5.0\NullablesC.runtimeconfig.json
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\bin\Debug\net5.0\NullablesC.runtimeconfig.dev.json
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\bin\Debug\net5.0\NullablesC.dll
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\bin\Debug\net5.0\ref\NullablesC.dll
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\bin\Debug\net5.0\NullablesC.pdb
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\obj\Debug\net5.0\NullablesC.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\obj\Debug\net5.0\NullablesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\obj\Debug\net5.0\NullablesC.AssemblyInfoInputs.cache
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\obj\Debug\net5.0\NullablesC.AssemblyInfo.cs
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\obj\Debug\net5.0\NullablesC.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\obj\Debug\net5.0\NullablesC.dll
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\obj\Debug\net5.0\ref\NullablesC.dll
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\obj\Debug\net5.0\NullablesC.pdb
+C:\Users\zdowd\repos\csharplessons\NullablesC\NullablesC\obj\Debug\net5.0\NullablesC.genruntimeconfig.cache
