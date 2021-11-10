@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCOL+vFtVbVqy6Esy7rIaauBgLNaEOmVsPZZrWbjVeYK+KzDBc3VtPQsQ8dJV3wS6sxvVsnUWRmVXdaVjVqkvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\EnumsC\\EnumsC\\EnumsC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

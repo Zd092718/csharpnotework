@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wbQsanjpO5/gWh3xUGWDn709CUrbqJDWmrG4w+ICDGZV7uhBMbJ65rcWugUanpvNLlpX58D1smbB2JYIFdRkhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\MathC\\MathC\\MathC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
