@@ -24,6 +24,9 @@ namespace StructsC
             game1.releaseDate = "1.7.2016";
 
             Console.WriteLine($"Game 1's name is {game1.name}");
+            Console.WriteLine($"Game 1's developer is {game1.dev}");
+            Console.WriteLine($"Game 1's rating is {game1.rating}");
+            Console.WriteLine($"Game 1's release date is {game1.releaseDate}");
 
         }
     }
