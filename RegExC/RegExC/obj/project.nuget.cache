@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRuCysF2zhY4jQTwHAsS2e9WnPRlkHuXDRbmDyT6/3ubFdGp3B0cA19iop68RLWyEPzTUHExg2YrFrTn/lsImA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\RegExC\\RegExC\\RegExC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

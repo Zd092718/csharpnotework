@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\bin\Debug\net5.0\MathC.exe
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\bin\Debug\net5.0\MathC.deps.json
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\bin\Debug\net5.0\MathC.runtimeconfig.json
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\bin\Debug\net5.0\MathC.runtimeconfig.dev.json
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\bin\Debug\net5.0\MathC.dll
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\bin\Debug\net5.0\ref\MathC.dll
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\bin\Debug\net5.0\MathC.pdb
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\obj\Debug\net5.0\MathC.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\obj\Debug\net5.0\MathC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\obj\Debug\net5.0\MathC.AssemblyInfoInputs.cache
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\obj\Debug\net5.0\MathC.AssemblyInfo.cs
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\obj\Debug\net5.0\MathC.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\obj\Debug\net5.0\MathC.dll
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\obj\Debug\net5.0\ref\MathC.dll
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\obj\Debug\net5.0\MathC.pdb
+C:\Users\zdowd\repos\csharplessons\MathC\MathC\obj\Debug\net5.0\MathC.genruntimeconfig.cache
