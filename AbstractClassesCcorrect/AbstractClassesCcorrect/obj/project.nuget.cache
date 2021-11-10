@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KY7BpdO1tgy6C8TmKNE6yYeOlLsA1J6ipQx0SWhFML9Xc9fAaGDqxsazt4xtgmjazqVyvBZkgr7rfSZY6Ebmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\AbstractClassesCcorrect\\AbstractClassesCcorrect\\AbstractClassesCcorrect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

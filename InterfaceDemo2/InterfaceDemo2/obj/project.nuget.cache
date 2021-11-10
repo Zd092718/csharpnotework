@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jkBLM02Do1XwV98/g6mzOZyu0hV3WJCvZZBNc/Q1bwKk7KfOEljJ9JIFgzaG26LLZO4+6WVTEorFlnyqi/eJdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\InterfaceDemo2\\InterfaceDemo2\\InterfaceDemo2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

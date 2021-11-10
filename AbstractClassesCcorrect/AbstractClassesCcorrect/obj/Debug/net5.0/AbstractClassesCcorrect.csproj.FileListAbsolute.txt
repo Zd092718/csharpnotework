@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\bin\Debug\net5.0\AbstractClassesCcorrect.exe
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\bin\Debug\net5.0\AbstractClassesCcorrect.deps.json
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\bin\Debug\net5.0\AbstractClassesCcorrect.runtimeconfig.json
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\bin\Debug\net5.0\AbstractClassesCcorrect.runtimeconfig.dev.json
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\bin\Debug\net5.0\AbstractClassesCcorrect.dll
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\bin\Debug\net5.0\ref\AbstractClassesCcorrect.dll
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\bin\Debug\net5.0\AbstractClassesCcorrect.pdb
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\obj\Debug\net5.0\AbstractClassesCcorrect.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\obj\Debug\net5.0\AbstractClassesCcorrect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\obj\Debug\net5.0\AbstractClassesCcorrect.AssemblyInfoInputs.cache
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\obj\Debug\net5.0\AbstractClassesCcorrect.AssemblyInfo.cs
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\obj\Debug\net5.0\AbstractClassesCcorrect.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\obj\Debug\net5.0\AbstractClassesCcorrect.dll
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\obj\Debug\net5.0\ref\AbstractClassesCcorrect.dll
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\obj\Debug\net5.0\AbstractClassesCcorrect.pdb
+C:\Users\zdowd\repos\csharplessons\AbstractClassesCcorrect\AbstractClassesCcorrect\obj\Debug\net5.0\AbstractClassesCcorrect.genruntimeconfig.cache

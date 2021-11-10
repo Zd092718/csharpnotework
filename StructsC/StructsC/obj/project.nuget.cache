@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxemgs8c7g0bbDnNX/L+6bKn5PAvz9qbLNExXak9Ce+ODQtuxW5omi5oxBVH2A4rA8607H2l/Nst7BjJhZcb2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\StructsC\\StructsC\\StructsC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

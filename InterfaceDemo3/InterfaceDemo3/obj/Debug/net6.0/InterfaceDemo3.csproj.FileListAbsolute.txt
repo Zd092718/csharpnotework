@@ -1,0 +1,15 @@
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\bin\Debug\net6.0\InterfaceDemo3.exe
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\bin\Debug\net6.0\InterfaceDemo3.deps.json
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\bin\Debug\net6.0\InterfaceDemo3.runtimeconfig.json
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\bin\Debug\net6.0\InterfaceDemo3.dll
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\bin\Debug\net6.0\ref\InterfaceDemo3.dll
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\bin\Debug\net6.0\InterfaceDemo3.pdb
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\obj\Debug\net6.0\InterfaceDemo3.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\obj\Debug\net6.0\InterfaceDemo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\obj\Debug\net6.0\InterfaceDemo3.AssemblyInfoInputs.cache
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\obj\Debug\net6.0\InterfaceDemo3.AssemblyInfo.cs
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\obj\Debug\net6.0\InterfaceDemo3.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\obj\Debug\net6.0\InterfaceDemo3.dll
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\obj\Debug\net6.0\ref\InterfaceDemo3.dll
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\obj\Debug\net6.0\InterfaceDemo3.pdb
+C:\Users\zdowd\repos\csharplessons\InterfaceDemo3\InterfaceDemo3\obj\Debug\net6.0\InterfaceDemo3.genruntimeconfig.cache
