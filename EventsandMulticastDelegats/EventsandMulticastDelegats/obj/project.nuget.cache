@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vjxgMd3IXNf4/dKLvAXEtAAvaU3uhqWke+RrFin/Lo9S0AIM2HSlxj4oGUSahey/DbQLnmzwhBF+z4CCm/MTxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\EventsandMulticastDelegats\\EventsandMulticastDelegats\\EventsandMulticastDelegats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

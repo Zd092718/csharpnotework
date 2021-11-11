@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVW98Fzw/fxDCSiGfeklmECG5+F2XTUlZqIXHBAJMnQdgXn5NqytBo764xEjTJBjRuQowLECApjyHcW2jJjhEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\WPF01\\WPF01\\WPF01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

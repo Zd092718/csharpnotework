@@ -21,6 +21,40 @@ namespace DelegatesDemo2
             DisplayPeople("Adults", people, IsAdult);
             DisplayPeople("Kids", people, IsMinor);
             DisplayPeople("Senior", people, IsSenior);
+
+
+
+            //new variable of type FilterDelegate. 
+            //then assigned an anonymous method to it instead of defined method
+            FilterDelegate filter = delegate (Person p)
+            {
+                return p.Age >= 20 && p.Age <= 30;
+            };
+
+
+            DisplayPeople("Young Adults", people, filter);
+
+            DisplayPeople("All", people, delegate (Person p) { 
+                return true; 
+            }
+            );
+
+           
+            string searchKeyword = "A";
+            DisplayPeople("age > 20 with search keyword: " + searchKeyword, people, (p) => //example of lambda expression
+            {
+                if(p.Name.Contains(searchKeyword) && p.Age >= 20)
+                {
+                    return true;
+                } else
+                {
+                    return false;
+                }
+            });
+
+
+            //lambda expression example 2
+            DisplayPeople("exactly 25 years old", people, p => p.Age == 25);
         }
 
         // method to display list of people that passes the filter condition

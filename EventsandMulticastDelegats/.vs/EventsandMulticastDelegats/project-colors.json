@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ab4d324a-7c76-40d6-8100-0734d1ca5cb0": {
+      "ProjectGuid": "ab4d324a-7c76-40d6-8100-0734d1ca5cb0",
+      "DisplayName": "EventsandMulticastDelegats",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
