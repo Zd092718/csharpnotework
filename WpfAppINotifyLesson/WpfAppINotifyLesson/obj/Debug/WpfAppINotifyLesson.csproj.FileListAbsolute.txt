@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\bin\Debug\WpfAppINotifyLesson.exe.config
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\bin\Debug\WpfAppINotifyLesson.exe
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\bin\Debug\WpfAppINotifyLesson.pdb
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\WpfAppINotifyLesson.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\WpfAppINotifyLesson.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\MainWindow.g.cs
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\App.g.cs
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\WpfAppINotifyLesson_MarkupCompile.cache
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\WpfAppINotifyLesson_MarkupCompile.lref
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\MainWindow.baml
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\WpfAppINotifyLesson.g.resources
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\WpfAppINotifyLesson.Properties.Resources.resources
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\WpfAppINotifyLesson.csproj.GenerateResource.cache
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\WpfAppINotifyLesson.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\WpfAppINotifyLesson.exe
+C:\Users\zdowd\repos\csharplessons\WpfAppINotifyLesson\WpfAppINotifyLesson\obj\Debug\WpfAppINotifyLesson.pdb

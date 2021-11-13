@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef0db6f9-db64-465a-9cf7-6cfebff4ced9": {
+      "ProjectGuid": "ef0db6f9-db64-465a-9cf7-6cfebff4ced9",
+      "DisplayName": "WPFComboBox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

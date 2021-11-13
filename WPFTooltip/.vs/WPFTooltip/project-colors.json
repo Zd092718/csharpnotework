@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6ed5555-dcb1-48ca-ace5-28e8c5afc91b": {
+      "ProjectGuid": "b6ed5555-dcb1-48ca-ace5-28e8c5afc91b",
+      "DisplayName": "WPFTooltip",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

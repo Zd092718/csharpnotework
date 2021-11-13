@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LD8DLeIF7HEu2pJa5ZPhpYeQ+ydR3J+rgFrpFgdFvs7hE33r2eOqiKAx5SI1/ZmxrK/q6tTOv4Uael6dECY9dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\WPFCheckBox\\WPFCheckBox\\WPFCheckBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

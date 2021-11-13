@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCkDUPspUCz35r59l73Av5vjUUFhwXNM3PwEO5Z0P9RWC+1H7lXH9SQu0psbchPawGTD3sQQLym6pdUBptZu+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\WPFTooltip\\WPFTooltip\\WPFTooltip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

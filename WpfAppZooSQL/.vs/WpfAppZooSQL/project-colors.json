@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42959ab8-dac3-4ef8-8fee-47e511b9647d": {
+      "ProjectGuid": "42959ab8-dac3-4ef8-8fee-47e511b9647d",
+      "DisplayName": "WpfAppZooSQL",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

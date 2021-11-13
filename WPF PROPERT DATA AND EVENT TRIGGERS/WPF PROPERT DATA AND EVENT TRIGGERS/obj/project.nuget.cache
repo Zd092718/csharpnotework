@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5JgPRGB9nY16JQXHU8zUpa42SdKeAF/FAbVd6YS3/8k025PsWJdneQ4oHAhFs/G9YoR547oy2hfbJY1ixkh7ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\WPF PROPERT DATA AND EVENT TRIGGERS\\WPF PROPERT DATA AND EVENT TRIGGERS\\WPF PROPERT DATA AND EVENT TRIGGERS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

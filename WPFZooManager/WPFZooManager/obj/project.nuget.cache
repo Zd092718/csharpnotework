@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kJ6SEbsGGHbrAN5DRLnd1lAORUhk7XK3+2Ud7HdOYeTNx0W6zptU9goTvWgkubpLoMdFh3ZpkWUmsQVM16HGnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\WPFZooManager\\WPFZooManager\\WPFZooManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

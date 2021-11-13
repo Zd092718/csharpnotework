@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\bin\Debug\WPFListBox.exe.config
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\bin\Debug\WPFListBox.exe
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\bin\Debug\WPFListBox.pdb
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\WPFListBox.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\WPFListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\MainWindow.g.cs
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\App.g.cs
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\WPFListBox_MarkupCompile.cache
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\WPFListBox_MarkupCompile.lref
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\MainWindow.baml
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\WPFListBox.g.resources
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\WPFListBox.Properties.Resources.resources
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\WPFListBox.csproj.GenerateResource.cache
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\WPFListBox.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\WPFListBox.exe
+C:\Users\zdowd\repos\csharplessons\WPFListBox\WPFListBox\obj\Debug\WPFListBox.pdb

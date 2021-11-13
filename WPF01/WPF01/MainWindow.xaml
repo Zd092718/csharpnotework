@@ -8,12 +8,7 @@
         Title="MyFirstGUI" Height="450" Width="800">
     
     
-    <!--4 modes of Data Binding
-    Binding Target: <- one Way Binding Source
-    Binding Target: <- two Way -> Binding Source
-    Binding Target: oneWayToSource -> Binding Source
-    Binding Target: <___ OneTime  Binding Source - done in constructor so only once during installattion-->
-    
+
     
     <!-- XAML -> Extensible Application Markup Language-->
     <!--<Grid>

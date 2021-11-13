@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xODDaAm7G19Y4yL1GXTzt3qnjER97mxVO5fHWaAvf1f6nJ+PIqgbhbrxgnuMb+/2F/75DoWGnAXQAXIDmixFjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\WPF PASSWORD BOX\\WPF PASSWORD BOX\\WPF PASSWORD BOX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
