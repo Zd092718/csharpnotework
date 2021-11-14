@@ -33,6 +33,7 @@ namespace WpfAppZooSQL
             
             sqlConnection = new SqlConnection(connectionString);
 
+            ShowZoos();
 
         }
 
@@ -48,8 +49,11 @@ namespace WpfAppZooSQL
 
                 adapter.Fill(zooTable);
 
-                ListofZoos.DisplayMemberPath = "location";
+                //Which table info should be shown in list box
+                ListofZoos.DisplayMemberPath = "Location";
+                //Which value should be delivered when item from listbox is selected
                 ListofZoos.SelectedValuePath = "Id";
+                //reference to the data the listbox should populate
                 ListofZoos.ItemsSource = zooTable.DefaultView;
 
             }

@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\WpfAppZooSQL.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\WpfAppZooSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\MainWindow.g.cs
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\App.g.cs
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\WpfAppZooSQL_MarkupCompile.cache
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\WpfAppZooSQL_MarkupCompile.lref
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\bin\Debug\WpfAppZooSQL.exe.config
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\bin\Debug\WpfAppZooSQL.exe
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\bin\Debug\WpfAppZooSQL.pdb
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\MainWindow.baml
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\WpfAppZooSQL.g.resources
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\WpfAppZooSQL.Properties.Resources.resources
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\WpfAppZooSQL.csproj.GenerateResource.cache
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\WpfAppZooSQL.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\WpfAppZooSQL.exe
+C:\Users\zdowd\repos\csharplessons\WpfAppZooSQL\WpfAppZooSQL\obj\Debug\WpfAppZooSQL.pdb
