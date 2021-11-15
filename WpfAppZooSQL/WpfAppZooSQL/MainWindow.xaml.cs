@@ -63,7 +63,7 @@ namespace WpfAppZooSQL
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
         }        
         private void ShowAnimals()
@@ -92,7 +92,7 @@ namespace WpfAppZooSQL
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
         }       
         private void ShowAssociatedAnimals()
@@ -127,24 +127,115 @@ namespace WpfAppZooSQL
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
         }
 
+        //Displays animals associated with zoos
         private void ListofZoos_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ShowAssociatedAnimals();
         }
 
+        //delete zoos
         private void Delete_Zoo_Click(object sender, RoutedEventArgs e)
         {
-            string query = "delete from Zoo where id = @ZooId";
-            SqlCommand cmd = new SqlCommand(query, sqlConnection);
-            sqlConnection.Open();
-            cmd.Parameters.AddWithValue("@ZooId", ListofZoos.SelectedValue);
-            cmd.ExecuteScalar();
-            sqlConnection.Close();
-            ShowZoos();
+            try
+            {
+                string query = "delete from Zoo where id = @ZooId";
+                SqlCommand cmd = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                cmd.Parameters.AddWithValue("@ZooId", ListofZoos.SelectedValue);
+                cmd.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+                
+            }
+            finally
+            {
+                sqlConnection.Close();
+
+                ShowZoos();
+            }
+
+
+
+        }
+
+        //Delete animal from all animals
+        private void Delete_Animal_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "delete from Animal where id = @AnimalId";
+                SqlCommand cmd = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                cmd.Parameters.AddWithValue("@AnimalId", ListOfAllAnimals.SelectedValue);
+                cmd.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+
+            }
+            finally
+            {
+                sqlConnection.Close();
+
+                ShowAnimals();
+            }
+        }
+
+        private void Add_Zoo_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "insert into Zoo values (@Location)";
+                SqlCommand cmd = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                cmd.Parameters.AddWithValue("@Location", inputBox.Text);
+                cmd.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+
+            }
+            finally
+            {
+                sqlConnection.Close();
+
+                ShowZoos();
+            }
+        }       
+        private void Add_Animal_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "insert into Animal values (@Name)";
+                SqlCommand cmd = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                cmd.Parameters.AddWithValue("@Name", inputBox.Text);
+                cmd.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+
+            }
+            finally
+            {
+                sqlConnection.Close();
+
+                ShowAnimals();
+            }
+        }
+
+        private void Add_Animal_To_Zoo_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
