@@ -5,10 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfAppZooSQL"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="725">
+        Title="MainWindow" Height="463" Width="600">
     <Grid>
         <Label Content="Zoo List" HorizontalAlignment="Left" Margin="29,10,0,0" VerticalAlignment="Top"/>
-        <ListBox Name="ListofZoos" Margin="10,41,511,177"/>
+        <ListBox Name="ListofZoos" Margin="10,41,440,140" SelectionChanged="ListofZoos_SelectionChanged"/>
+        <Label Content="Associated Animals List" HorizontalAlignment="Left" Margin="225,10,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="ListOfAssociatedAnimals" Margin="207,41,237,140"/>
+        <ListBox Name="ListOfAllAnimals"  Margin="411,41,53,38"/>
+        <Button Content="Delete Zoo" HorizontalAlignment="Left" Margin="10,312,0,0" VerticalAlignment="Top" Width="150" Click="Delete_Zoo_Click"/>
+        <Button Content="Remove Animal" HorizontalAlignment="Left" Margin="207,312,0,0" VerticalAlignment="Top" Width="156"/>
+        <Button Content="Add Zoo" HorizontalAlignment="Left" Margin="10,389,0,0" VerticalAlignment="Top" Width="150"/>
+        <Button Content="Add Zoo Animal" HorizontalAlignment="Left" Margin="10,414,0,0" VerticalAlignment="Top" Width="150"/>
+        <Button Content="Update Zoo" HorizontalAlignment="Left" Margin="207,389,0,0" VerticalAlignment="Top" Width="156"/>
+        <Button Content="Update Animal" HorizontalAlignment="Left" Margin="207,414,0,0" VerticalAlignment="Top" Width="156"/>
+        <Button Content="Delete Animal" HorizontalAlignment="Left" Margin="411,414,0,0" VerticalAlignment="Top" Width="136"/>
+        <Button Content="Add Animal To Zoo" HorizontalAlignment="Left" Margin="411,16,0,0" VerticalAlignment="Top" Width="136"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,337,0,0" TextWrapping="Wrap" Text="Type Option Here" VerticalAlignment="Top" Width="352" Height="43" />
 
     </Grid>
 </Window>
