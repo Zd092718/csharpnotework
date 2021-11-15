@@ -9,11 +9,11 @@ namespace LINQObjectsAndQuueryOperators
         static void Main(string[] args)
         {
             UniManager um = new UniManager();
-            um.MaleStudents();
-            um.FemaleStudents();
-            um.SortStudentsByAge();
-            um.AllStudentsFromHarvard();
-            
+            //um.MaleStudents();
+            //um.FemaleStudents();
+            //um.SortStudentsByAge();
+            //um.AllStudentsFromHarvard();
+
             /*
             string input = Console.ReadLine();
             try
@@ -29,6 +29,8 @@ namespace LINQObjectsAndQuueryOperators
                 Console.WriteLine("Wrong entry");
             }
             */
+
+            um.StudentAndUniversityNameCollection();
 
             Console.Read();
         }
@@ -56,6 +58,8 @@ namespace LINQObjectsAndQuueryOperators
             students.Add(new Student { Id = 6, Name = "Christina", Gender = "Female", Age = 28, UniversityId = 1 });
         }
 
+
+        //Prints all male students
         public void MaleStudents()
         {
             IEnumerable<Student> maleStudents = from student in students 
@@ -68,6 +72,8 @@ namespace LINQObjectsAndQuueryOperators
                 student.Print();
             }
         }      
+
+        //Prints all female students
         public void FemaleStudents()
         {
             IEnumerable<Student> femaleStudents = from student in students 
@@ -81,6 +87,7 @@ namespace LINQObjectsAndQuueryOperators
             }
         }
 
+        //Prints all students sorted by age
         public void SortStudentsByAge()
         {
             var sortedStudents = from student in students orderby student.Age select student;
@@ -92,6 +99,7 @@ namespace LINQObjectsAndQuueryOperators
             }
         }
 
+        //Prints All students from harvard
         public void AllStudentsFromHarvard()
         {
             IEnumerable<Student> harvStudents = from student in students
@@ -106,6 +114,7 @@ namespace LINQObjectsAndQuueryOperators
             }
         }
 
+        //Prints all students from unis with specified ids
         public void AllStudentsFromThatUni(int Id)
         {
             IEnumerable<Student> uniStudents = from student in students
@@ -119,7 +128,31 @@ namespace LINQObjectsAndQuueryOperators
                 student1.Print();
             }
         }
+
+        // Prints all students and their respective universities
+        public void StudentAndUniversityNameCollection()
+        {
+            var newCollection = from student in students
+                                join university in universities on student.UniversityId equals university.Id
+                                orderby student.Name
+                                select new { StudentName = student.Name, UniversityName = university.Name }; //Makes new collection
+
+            Console.WriteLine("New collection:");
+            foreach (var col in newCollection)
+            {
+                Console.WriteLine($"Student {col.StudentName} from University {col.UniversityName}");
+            }
+                                
+        }
+
+
+
     }
+
+
+
+
+
 
     class University
     {
