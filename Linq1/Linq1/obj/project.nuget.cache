@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5/T2Q+v8nD9+K7zC8Lcsk0j1o/LSEVDMUTYfU8WqgEclc6YvxkOfaFBmaoa+K0UfDdnG9SExLuabTKdVD6IIEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\Linq1\\Linq1\\Linq1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
