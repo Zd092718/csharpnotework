@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b32f00a2-ae06-4823-b565-094755c94a19": {
+      "ProjectGuid": "b32f00a2-ae06-4823-b565-094755c94a19",
+      "DisplayName": "LINQObjectsAndQuueryOperators",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
