@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\bin\Debug\LinqToSqlReal.exe.config
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\bin\Debug\LinqToSqlReal.exe
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\bin\Debug\LinqToSqlReal.pdb
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\LinqToSqlReal.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\LinqToSqlReal.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\MainWindow.g.cs
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\App.g.cs
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\LinqToSqlReal_MarkupCompile.cache
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\LinqToSqlReal_MarkupCompile.lref
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\MainWindow.baml
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\LinqToSqlReal.g.resources
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\LinqToSqlReal.Properties.Resources.resources
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\LinqToSqlReal.csproj.GenerateResource.cache
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\LinqToSqlReal.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\LinqToSqlReal.exe
+C:\Users\zdowd\repos\csharplessons\LinqToSqlReal\LinqToSqlReal\obj\Debug\LinqToSqlReal.pdb

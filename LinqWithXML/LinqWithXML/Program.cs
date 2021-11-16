@@ -17,35 +17,35 @@ namespace LinqWithXML
                                 <Age>21</Age>
                                 <University>Yale</University>
                                 <Semester>6</Semester>
-                                <Degree>Computer Science<Degree>
+                                <Degree>Computer Science</Degree>
                             </Student>
                             <Student>
                                 <Name>Carla</Name>
                                 <Age>17</Age>
                                 <University>Yale</University>
                                 <Semester>1</Semester>
-                                <Degree>Biology<Degree>
+                                <Degree>Biology</Degree>
                             </Student>
                             <Student>
                                 <Name>Leyla</Name>
                                 <Age>19</Age>
                                 <University>Beijing Tech</University>
                                 <Semester>3</Semester>
-                                <Degree>History<Degree>    
+                                <Degree>History</Degree>    
                             </Student>
                             <Student>
                                 <Name>Frank</Name>
                                 <Age>25</Age>
                                 <University>Beijing Tech</University>
                                 <Semester>10</Semester>
-                                <Degree>Chemistry<Degree>
+                                <Degree>Chemistry</Degree>
                             </Student>                   
                             <Student>
                                 <Name>Garrett</Name>
                                 <Age>25</Age>
                                 <University>Fort Lewis College</University>
                                 <Semester>10</Semester>
-                                <Degree>History<Degree>
+                                <Degree>History</Degree>
                             </Student>
                         </Students>";
 
@@ -59,13 +59,14 @@ namespace LinqWithXML
                            {
                                Name = student.Element("Name").Value,
                                Age = student.Element("Age").Value,
-                               University = student.Element("University").Value
+                               University = student.Element("University").Value,
+                               Degree = student.Element("Degree").Value
                            };
 
             foreach (var student in students)
             {
                 Console.WriteLine($"Student {student.Name} is {student.Age} " +
-                    $"and goes to {student.University}");
+                    $"and goes to {student.University} while studying {student.Degree}");
             }
 
 
