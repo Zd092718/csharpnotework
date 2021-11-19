@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\bin\Debug\net5.0\Threads1.exe
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\bin\Debug\net5.0\Threads1.deps.json
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\bin\Debug\net5.0\Threads1.runtimeconfig.json
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\bin\Debug\net5.0\Threads1.runtimeconfig.dev.json
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\bin\Debug\net5.0\Threads1.dll
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\bin\Debug\net5.0\ref\Threads1.dll
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\bin\Debug\net5.0\Threads1.pdb
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\obj\Debug\net5.0\Threads1.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\obj\Debug\net5.0\Threads1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\obj\Debug\net5.0\Threads1.AssemblyInfoInputs.cache
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\obj\Debug\net5.0\Threads1.AssemblyInfo.cs
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\obj\Debug\net5.0\Threads1.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\obj\Debug\net5.0\Threads1.dll
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\obj\Debug\net5.0\ref\Threads1.dll
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\obj\Debug\net5.0\Threads1.pdb
+C:\Users\zdowd\repos\csharplessons\Threads1\Threads1\obj\Debug\net5.0\Threads1.genruntimeconfig.cache
