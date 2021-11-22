@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e9d6a58-6cf7-476d-8265-d2191d701c2b": {
+      "ProjectGuid": "1e9d6a58-6cf7-476d-8265-d2191d701c2b",
+      "DisplayName": "INotifyPropertyChangedPractice",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

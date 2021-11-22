@@ -1,0 +1,15 @@
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\bin\Debug\net5.0\IEnumerablePrac.exe
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\bin\Debug\net5.0\IEnumerablePrac.deps.json
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\bin\Debug\net5.0\IEnumerablePrac.runtimeconfig.json
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\bin\Debug\net5.0\IEnumerablePrac.runtimeconfig.dev.json
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\bin\Debug\net5.0\IEnumerablePrac.dll
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\bin\Debug\net5.0\ref\IEnumerablePrac.dll
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\bin\Debug\net5.0\IEnumerablePrac.pdb
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\obj\Debug\net5.0\IEnumerablePrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\obj\Debug\net5.0\IEnumerablePrac.AssemblyInfoInputs.cache
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\obj\Debug\net5.0\IEnumerablePrac.AssemblyInfo.cs
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\obj\Debug\net5.0\IEnumerablePrac.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\obj\Debug\net5.0\IEnumerablePrac.dll
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\obj\Debug\net5.0\ref\IEnumerablePrac.dll
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\obj\Debug\net5.0\IEnumerablePrac.pdb
+C:\Users\zdowd\repos\csharplessons\IEnumerablePrac\IEnumerablePrac\obj\Debug\net5.0\IEnumerablePrac.genruntimeconfig.cache
