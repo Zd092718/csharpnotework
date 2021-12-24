@@ -1,9 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Log = System.Diagnostics.Debug;
 
 namespace LINQObjectsAndQuueryOperators
 {
+    class Person
+    {
+        public string Name;
+        public int Age;
+    }
     internal class Program
     {
         static void Main(string[] args)
@@ -30,9 +36,60 @@ namespace LINQObjectsAndQuueryOperators
             }
             */
 
-            um.StudentAndUniversityNameCollection();
+            //um.StudentAndUniversityNameCollection();
 
-            Console.Read();
+
+            ///Using Linq without sql tags
+            //List<Person> people = new List<Person>()
+            //{
+            //    new Person() { Name = "Zack", Age = 25},
+            //    new Person() { Name = "Allie", Age = 26},
+            //    new Person() { Name = "Bennet", Age = 32},
+            //    new Person() { Name = "Matt", Age = 31}
+            //};
+
+            //int oldestPersonAge = people.Select(p => p.Age).Max();
+
+            //Log.WriteLine("The oldest's person's age is " + oldestPersonAge);
+            //Console.Read();
+
+
+            ///Using cast with Linq
+            //List<int> collection = new List<int>() { 1, 2, 3};
+            //IEnumerable<float> collectionOfFloats = collection.Cast<float>();
+
+            //foreach(var f in collectionOfFloats)
+            //{
+            //    Log.WriteLine(f);
+
+            //}
+
+            ///Using select and select many
+            //List<int> collection = new List<int>() { 1, 2, 3};
+            //IEnumerable<int> collectionOfIntsMultipliedBy2 = collection.Select(s => s * 2);
+            //foreach (int i in collectionOfIntsMultipliedBy2)
+            //{
+            //    Log.WriteLine(i.ToString() + " ");
+            //}
+            //Log.WriteLine(string.Empty);
+
+            //List<List<int>> collections = new List<List<int>>()
+            //{
+            //    new List<int> { 1, 2, 3 },
+            //    new List<int> { 4, 5, 6 },
+            //    new List<int> { 7, 8, 9 }
+            //};
+
+            //IEnumerable<int> result = collections.SelectMany(c => c);
+            //Log.WriteLine(result.Count().ToString());
+            //foreach (int i in result)
+            //{
+            //    Log.Write(i.ToString() + " ");
+            //}
+            //Log.WriteLine(string.Empty);
+
+            ///OfType and Where
+            
         }
     }
 

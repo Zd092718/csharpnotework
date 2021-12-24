@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CInXO+cd8CBxv0xs+phcQs4XhgmPXyJlA/fCA+T1wVbrlFfKXGD1cjQsVDLmoffJlrqkAAy9O+zPXjGUHsDcdQ==",
+  "dgSpecHash": "njUxNCIY5QNVaiw7F7dsPuXE2CWET1+qKOiiPAUXCDbnzfewfzD/v/83edN5YwsauCZuX1LsqFK2uVc7Rd84Vg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdowd\\repos\\csharplessons\\LINQObjectsAndQuueryOperators\\LINQObjectsAndQuueryOperators\\LINQObjectsAndQuueryOperators.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdowd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

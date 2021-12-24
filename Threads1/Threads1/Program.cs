@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading;
+using Log = System.Diagnostics.Debug;
 
 namespace Threads1
 {
@@ -16,27 +17,52 @@ namespace Threads1
             //Console.WriteLine("Hello World! 4");
 
 
-            new Thread(() =>
+            //new Thread(() =>
+            //{
+            //    Thread.Sleep(1000);
+            //    Console.WriteLine("Thread 1");
+            //}).Start();            
+            //new Thread(() =>
+            //{
+            //    Thread.Sleep(1000);
+            //    Console.WriteLine("Thread 2");
+            //}).Start();            
+            //new Thread(() =>
+            //{
+            //    Thread.Sleep(1000);
+            //    Console.WriteLine("Thread 3");
+            //}).Start();           
+            //new Thread(() =>
+            //{
+            //    Thread.Sleep(1000);
+            //    Console.WriteLine("Thread 4");
+            //}).Start();
+            //Console.Read();
+
+            //Thread t = new Thread(ExampleFunction);
+            //t.Name = "Example Thread 1";
+            //t.IsBackground = true; //specifies background thread
+            //t.IsBackground = false; //specifies foreground thread (foreground by default)
+            //t.Start();  
+
+
+            //Thread t = new Thread(ExampleFunction);
+            //t.Priority = ThreadPriority.Normal;
+
+            Log.WriteLine(DateTime.Now.ToString());
+            Thread.Sleep(2000);
+            Log.WriteLine(DateTime.Now.ToString());
+        }
+
+        static void ExampleFunction()
+        {
+            for (int i = 0; i < 30; i++)
             {
-                Thread.Sleep(1000);
-                Console.WriteLine("Thread 1");
-            }).Start();            
-            new Thread(() =>
-            {
-                Thread.Sleep(1000);
-                Console.WriteLine("Thread 2");
-            }).Start();            
-            new Thread(() =>
-            {
-                Thread.Sleep(1000);
-                Console.WriteLine("Thread 3");
-            }).Start();           
-            new Thread(() =>
-            {
-                Thread.Sleep(1000);
-                Console.WriteLine("Thread 4");
-            }).Start();
-            Console.Read();
+                
+                Log.WriteLine("Hello World");
+
+            }
+
         }
     }
 }

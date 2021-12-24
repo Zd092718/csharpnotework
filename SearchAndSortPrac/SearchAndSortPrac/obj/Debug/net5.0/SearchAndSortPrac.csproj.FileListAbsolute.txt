@@ -1,0 +1,16 @@
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\bin\Debug\net5.0\SearchAndSortPrac.exe
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\bin\Debug\net5.0\SearchAndSortPrac.deps.json
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\bin\Debug\net5.0\SearchAndSortPrac.runtimeconfig.json
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\bin\Debug\net5.0\SearchAndSortPrac.runtimeconfig.dev.json
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\bin\Debug\net5.0\SearchAndSortPrac.dll
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\bin\Debug\net5.0\ref\SearchAndSortPrac.dll
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\bin\Debug\net5.0\SearchAndSortPrac.pdb
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\obj\Debug\net5.0\SearchAndSortPrac.csproj.AssemblyReference.cache
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\obj\Debug\net5.0\SearchAndSortPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\obj\Debug\net5.0\SearchAndSortPrac.AssemblyInfoInputs.cache
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\obj\Debug\net5.0\SearchAndSortPrac.AssemblyInfo.cs
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\obj\Debug\net5.0\SearchAndSortPrac.csproj.CoreCompileInputs.cache
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\obj\Debug\net5.0\SearchAndSortPrac.dll
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\obj\Debug\net5.0\ref\SearchAndSortPrac.dll
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\obj\Debug\net5.0\SearchAndSortPrac.pdb
+C:\Users\zdowd\repos\csharplessons\SearchAndSortPrac\SearchAndSortPrac\obj\Debug\net5.0\SearchAndSortPrac.genruntimeconfig.cache
